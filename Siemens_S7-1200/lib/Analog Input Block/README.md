@@ -12,7 +12,7 @@ Esse bloco pode ser utilizado em projetos industriais genéricos para tratamento
 ## Requisitos
 
 - **Software**: TIA Portal V16 ou superior.
-- **Hardware**: Siemens S7-1200/S7-1500 CPU.
+- **Hardware**: Siemens S7-1200 CPU.
 
 ## Como Executar
 
